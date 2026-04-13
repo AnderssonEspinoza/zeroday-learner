@@ -93,7 +93,9 @@ Ese comando actualiza:
 
 El repositorio incluye el workflow [`.github/workflows/update-news.yml`](./.github/workflows/update-news.yml), que ejecuta el scraper diariamente y tambien permite lanzarlo manualmente desde GitHub Actions.
 
-Si publicas el proyecto en Vercel o Netlify conectado al repo, los cambios en `public/noticias.json` se desplegaran automaticamente despues de cada ejecucion exitosa del workflow.
+Cuando detecta cambios en el feed, el workflow abre un Pull Request automatico en lugar de empujar directo a `main`. Asi respeta la proteccion de rama y te deja revisar el contenido antes de publicarlo.
+
+Si publicas el proyecto en Vercel o Netlify conectado al repo, al fusionar ese PR se desplegaran automaticamente los cambios en `public/noticias.json`.
 
 ## Uso recomendado
 

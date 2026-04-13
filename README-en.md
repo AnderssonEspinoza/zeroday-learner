@@ -84,7 +84,9 @@ That command updates:
 
 The repository includes [`.github/workflows/update-news.yml`](./.github/workflows/update-news.yml), which runs the scraper every day and can also be triggered manually from GitHub Actions.
 
-If the project is deployed through Vercel or Netlify and connected to this repository, changes to `public/noticias.json` will be redeployed automatically after each successful workflow run.
+When the feed changes, the workflow opens an automated Pull Request instead of pushing directly to `main`. This keeps branch protection intact and lets maintainers review the news update before publishing it.
+
+If the project is deployed through Vercel or Netlify and connected to this repository, merging that PR will automatically redeploy the updated `public/noticias.json`.
 
 ## Recommended usage
 
