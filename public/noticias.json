@@ -1,13 +1,113 @@
 [
   {
     "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137415 - Tencent RapidJSON writer.h WriteString integer overflow",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137415",
+    "title": "CVE-2026-132876 - Dreamweaver Desktop | Dependency on Vulnerable Third-Party Component (CWE-1395)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132876",
     "source": "CVE Feed",
     "lang": "en",
-    "date": "2026-11-26T17:45:10.000Z",
-    "description": "CVE ID :CVE-2026-137415 Published : Nov. 26, 2026, 5:45 p.m. | 29 minutes ago Description :A security flaw has been discovered in Tencent RapidJSON up to 1.1.0. This affects the function Writer::WriteString in the library include/rapidjson/writer.h. Performing a manipulation of the argument length results in integer overflow. The attack may be initiated remotely. The patch is named 297637bc0a0f00dc504dbc1a47ebdaa577f8ae19. To fix this issue, it is recommended to deploy a patch. Severity: 0.0 | NA Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "date": "2026-11-27T17:42:00.000Z",
+    "description": "CVE ID :CVE-2026-132876 Published : Nov. 27, 2026, 5:42 p.m. | 44 minutes ago Description :Dreamweaver Desktop is affected by a Dependency on Vulnerable Third-Party Component vulnerability that could result in arbitrary code execution in the context of the current user. An attacker could exploit this vulnerability to execute arbitrary code. Exploitation depends on conditions beyond the attacker's control and requires user interaction in that a victim must open a malicious file. Scope is changed. Severity: 7.7 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+    "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T16:36:11.000Z",
+    "description": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand",
+    "category": "General"
+  },
+  {
+    "id": "aHR0cHM6Ly9oYWNrcm",
+    "title": "What Happens When You Mine Crypto in a Game Instead of Real Life?",
+    "link": "https://hackread.com/what-happens-when-you-mine-crypto-in-game/",
+    "source": "HackRead",
+    "lang": "en",
+    "date": "2026-11-27T11:01:03.000Z",
+    "description": "Learn how crypto mining games work, how they differ from real cryptocurrency mining, and what to know about rewards, withdrawals, costs and risks.",
+    "category": "General"
+  },
+  {
+    "id": "aHR0cHM6Ly9jdmVmZW",
+    "title": "CVE-2026-81055 - Dell Secure Connect Gateway Virtual Edition Observable Timing Discrepancy Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81055",
+    "source": "CVE Feed",
+    "lang": "en",
+    "date": "2026-11-27T17:18:02.000Z",
+    "description": "CVE ID :CVE-2026-81055 Published : Nov. 27, 2026, 5:18 p.m. | 1 hour, 8 minutes ago Description :Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Observable Timing Discrepancy vulnerability. A low privileged remote attacker could potentially exploit this vulnerability, leading to Session theft. Severity: 2.9 | LOW Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T11:49:34.000Z",
+    "description": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+    "category": "Malware"
+  },
+  {
+    "id": "aHR0cHM6Ly9oYWNrcm",
+    "title": "Fake Car Diagnostic Tools on GitHub Target Repair Shops with Malware",
+    "link": "https://hackread.com/fake-car-diagnostic-tools-github-repair-shops-malware/",
+    "source": "HackRead",
+    "lang": "en",
+    "date": "2026-11-27T10:07:13.000Z",
+    "description": "16 fake GitHub repositories were found using real automotive code and AI-written READMEs to lure technicians into installing malware that could steal automaker logins.",
+    "category": "Malware"
+  },
+  {
+    "id": "aHR0cHM6Ly9jdmVmZW",
+    "title": "CVE-2026-81054 - Dell Secure Connect Gateway Information Exposure via Log File",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81054",
+    "source": "CVE Feed",
+    "lang": "en",
+    "date": "2026-11-27T17:18:02.000Z",
+    "description": "CVE ID :CVE-2026-81054 Published : Nov. 27, 2026, 5:18 p.m. | 1 hour, 8 minutes ago Description :Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Insertion of Sensitive Information into Log File vulnerability. A low privileged local attacker could potentially exploit this vulnerability, leading to Information exposure. Severity: 5.5 | MEDIUM Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T10:32:18.000Z",
+    "description": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+    "category": "General"
+  },
+  {
+    "id": "aHR0cHM6Ly9oYWNrcm",
+    "title": "CS2 Scams in 2026: What Players Should Watch Out For",
+    "link": "https://hackread.com/cs2-scams-2026-what-players-should-watch-out-for/",
+    "source": "HackRead",
+    "lang": "en",
+    "date": "2026-11-26T20:48:54.000Z",
+    "description": "Avoid CS2 scams in 2026, from fake Steam logins and trades to trade reversal tricks. Learn how to protect your Steam account and keep your skins safe.",
+    "category": "General"
+  },
+  {
+    "id": "aHR0cHM6Ly9jdmVmZW",
+    "title": "CVE-2026-81053 - Dell Secure Connect Gateway Race Condition Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81053",
+    "source": "CVE Feed",
+    "lang": "en",
+    "date": "2026-11-27T17:18:02.000Z",
+    "description": "CVE ID :CVE-2026-81053 Published : Nov. 27, 2026, 5:18 p.m. | 1 hour, 8 minutes ago Description :Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') vulnerability. A low privileged remote attacker could potentially exploit this vulnerability, leading to Denial of service. Severity: 6.7 | MEDIUM Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T09:29:30.000Z",
+    "description": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official download page but also during the update process of previously installed",
+    "category": "Malware"
   },
   {
     "id": "aHR0cHM6Ly9oYWNrcm",
@@ -20,24 +120,24 @@
     "category": "Malware"
   },
   {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-    "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-26T15:13:41.000Z",
-    "description": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When Python imports the file, the loader reads the newest transaction that an",
-    "category": "Malware"
-  },
-  {
     "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137414 - itsourcecode Event Management System view_event.php sql injection",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137414",
+    "title": "CVE-2026-81050 - Dell Secure Connect Gateway Insufficient Logging Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81050",
     "source": "CVE Feed",
     "lang": "en",
-    "date": "2026-11-26T17:30:17.000Z",
-    "description": "CVE ID :CVE-2026-137414 Published : Nov. 26, 2026, 5:30 p.m. | 44 minutes ago Description :A vulnerability was identified in itsourcecode Event Management System 1.0. The impacted element is an unknown function of the file view_event.php. Such manipulation of the argument ID leads to sql injection. The attack can be launched remotely. The exploit is publicly available and might be used. Severity: 0.0 | NA Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "date": "2026-11-27T17:18:02.000Z",
+    "description": "CVE ID :CVE-2026-81050 Published : Nov. 27, 2026, 5:18 p.m. | 1 hour, 8 minutes ago Description :Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Insufficient Logging vulnerability. An unauthenticated local attacker could potentially exploit this vulnerability, leading to Session theft. Severity: 2.9 | LOW Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T06:04:20.000Z",
+    "description": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is",
+    "category": "General"
   },
   {
     "id": "aHR0cHM6Ly9oYWNrcm",
@@ -50,23 +150,23 @@
     "category": "General"
   },
   {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-    "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-26T10:57:55.000Z",
-    "description": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
-    "category": "Phishing"
-  },
-  {
     "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137411 - projectworlds Online Jewellery Shopping System Dashbord Search dashbord_model.php searchItem sql injection",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137411",
+    "title": "CVE-2026-81047 - Dell Secure Connect Gateway Improper Authentication Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81047",
     "source": "CVE Feed",
     "lang": "en",
-    "date": "2026-11-26T17:17:07.000Z",
-    "description": "CVE ID :CVE-2026-137411 Published : Nov. 26, 2026, 5:17 p.m. | 57 minutes ago Description :A vulnerability was found in projectworlds Online Jewellery Shopping System 1.0. Impacted is the function searchItem of the file application/models/dashbord_model.php of the component Dashbord Search. The manipulation of the argument q results in sql injection. It is possible to launch the attack remotely. The exploit has been made public and could be used. Severity: 7.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "date": "2026-11-27T17:18:02.000Z",
+    "description": "CVE ID :CVE-2026-81047 Published : Nov. 27, 2026, 5:18 p.m. | 1 hour, 8 minutes ago Description :Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Improper Authentication vulnerability. An unauthenticated local attacker could potentially exploit this vulnerability, leading to Unauthorized access. Severity: 6.8 | MEDIUM Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "category": "Vulnerabilidad"
+  },
+  {
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "source": "The Hacker News",
+    "lang": "en",
+    "date": "2026-11-27T05:48:20.000Z",
+    "description": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT. \"I found a path from a fresh, unauthenticated HTTP session to command execution as the Cacti server",
     "category": "Vulnerabilidad"
   },
   {
@@ -80,24 +180,24 @@
     "category": "Phishing"
   },
   {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-    "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-    "source": "The Hacker News",
+    "id": "aHR0cHM6Ly9naXRodW",
+    "title": "Git security vulnerabilities announced",
+    "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "source": "GitHub Security Blog",
     "lang": "en",
-    "date": "2026-11-26T10:57:25.000Z",
-    "description": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
-    "category": "Open Source"
+    "date": "2026-11-10T18:00:00.000Z",
+    "description": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+    "category": "Vulnerabilidad"
   },
   {
-    "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137410 - liuwy-project zhglxt CommonController.java markdownUploadFile unrestricted upload",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137410",
-    "source": "CVE Feed",
+    "id": "aHR0cHM6Ly90aGVoYW",
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "source": "The Hacker News",
     "lang": "en",
-    "date": "2026-11-26T17:17:07.000Z",
-    "description": "CVE ID :CVE-2026-137410 Published : Nov. 26, 2026, 5:17 p.m. | 57 minutes ago Description :A vulnerability has been found in liuwy-project zhglxt up to 3fd4ad44458f87bdad0afa997ba29706488fa1ff. This issue affects the function markdownUploadFile of the file zhglxt-web/src/main/java/com/zhglxt/web/controller/common/CommonController.java. The manipulation of the argument editormd-image-file leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. This product is using a rolling release to provide continious delivery. Therefore, no version details for affected nor updated releases are available. Severity: 6.5 | MEDIUM Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "category": "Vulnerabilidad"
+    "date": "2026-11-26T19:39:57.000Z",
+    "description": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
+    "category": "General"
   },
   {
     "id": "aHR0cHM6Ly9oYWNrcm",
@@ -110,106 +210,6 @@
     "category": "Open Source"
   },
   {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-    "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-26T07:02:34.000Z",
-    "description": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
-    "category": "Vulnerabilidad"
-  },
-  {
-    "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137409 - chuckfairy node-webcam FSWebcam FSWebcam.js generateSh os command injection",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137409",
-    "source": "CVE Feed",
-    "lang": "en",
-    "date": "2026-11-26T17:17:06.000Z",
-    "description": "CVE ID :CVE-2026-137409 Published : Nov. 26, 2026, 5:17 p.m. | 57 minutes ago Description :A flaw has been found in chuckfairy node-webcam up to 0.8.2. This vulnerability affects the function generateSh of the file src/webcams/FSWebcam.js of the component FSWebcam. Executing a manipulation can lead to os command injection. The attack may be performed from remote. The exploit has been published and may be used. The project was informed of the problem early through an issue report but has not responded yet. Severity: 7.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "category": "Vulnerabilidad"
-  },
-  {
-    "id": "aHR0cHM6Ly9oYWNrcm",
-    "title": "AI Can Write Code. Engineers Still Have to Decide What Ships",
-    "link": "https://hackread.com/ai-writes-code-engineers-decide-what-ships/",
-    "source": "HackRead",
-    "lang": "en",
-    "date": "2026-11-25T18:35:56.000Z",
-    "description": "Senior roles drove most of the rebound in software job postings. See why employers value engineers who can review, test, and verify AI-generated code.",
-    "category": "General"
-  },
-  {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-26T06:44:46.000Z",
-    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
-    "category": "Vulnerabilidad"
-  },
-  {
-    "id": "aHR0cHM6Ly9jdmVmZW",
-    "title": "CVE-2026-137407 - Max Foundry Media Library Folders Plugin Block Direct Access media-library-plus.php mlfp_toggle_file_access authorization",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137407",
-    "source": "CVE Feed",
-    "lang": "en",
-    "date": "2026-11-26T17:17:06.000Z",
-    "description": "CVE ID :CVE-2026-137407 Published : Nov. 26, 2026, 5:17 p.m. | 57 minutes ago Description :A security vulnerability has been detected in Max Foundry Media Library Folders Plugin up to 8.4.3 on WordPress. Affected by this issue is the function mlfp_toggle_file_access of the file media-library-plus.php of the component Block Direct Access. Such manipulation of the argument file_id leads to missing authorization. The attack can be executed remotely. Upgrading to version 8.4.4 can resolve this issue. You should upgrade the affected component. Severity: 6.5 | MEDIUM Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "category": "Vulnerabilidad"
-  },
-  {
-    "id": "aHR0cHM6Ly9oYWNrcm",
-    "title": "FBI Helps Free Over 2,200 Trafficking Victims in Global Scam Crackdown",
-    "link": "https://hackread.com/fbi-helps-free-trafficking-victims-global-scam-crackdown/",
-    "source": "HackRead",
-    "lang": "en",
-    "date": "2026-11-25T17:22:40.000Z",
-    "description": "US prosecutors took action against over 800 defendants in more than 400 fraud cases. The FBI reported restraining nearly $17 billion in illicit funds.",
-    "category": "General"
-  },
-  {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-    "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-26T03:48:52.000Z",
-    "description": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
-    "category": "Malware"
-  },
-  {
-    "id": "aHR0cHM6Ly9naXRodW",
-    "title": "Git security vulnerabilities announced",
-    "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-    "source": "GitHub Security Blog",
-    "lang": "en",
-    "date": "2026-11-10T18:00:00.000Z",
-    "description": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.",
-    "category": "Vulnerabilidad"
-  },
-  {
-    "id": "aHR0cHM6Ly9oYWNrcm",
-    "title": "Open database exposed 2 billion credential records, including session tokens",
-    "link": "https://hackread.com/database-exposed-credential-records-session-tokens/",
-    "source": "HackRead",
-    "lang": "en",
-    "date": "2026-11-25T10:44:20.000Z",
-    "description": "Cybersecurity researcher Jeremiah Fowler found an open database with roughly 2 billion records, including passwords, browser cookies and session tokens. Access was restricted.",
-    "category": "Phishing"
-  },
-  {
-    "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-    "source": "The Hacker News",
-    "lang": "en",
-    "date": "2026-11-25T12:48:54.000Z",
-    "description": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
-    "category": "Vulnerabilidad"
-  },
-  {
     "id": "aHR0cHM6Ly91bmFhbG",
     "title": "Node.js corrige fallos graves de TLS y Brotli en sus ramas 26, 24 y 22",
     "link": "https://unaaldia.hispasec.com/node-js-corrige-fallos-graves-de-tls-y-brotli-en-sus-ramas-26-24-y-22/?utm_source=rss&utm_medium=rss&utm_campaign=node-js-corrige-fallos-graves-de-tls-y-brotli-en-sus-ramas-26-24-y-22",
@@ -220,23 +220,23 @@
     "category": "Vulnerabilidad"
   },
   {
-    "id": "aHR0cHM6Ly9oYWNrcm",
-    "title": "Researchers Take Over Five US Treasury Subdomains for About $3 Each",
-    "link": "https://hackread.com/researchers-take-over-5-us-treasury-subdomains/",
-    "source": "HackRead",
-    "lang": "en",
-    "date": "2026-11-24T20:53:59.000Z",
-    "description": "Old DNS records let Intruder researchers take over five US Treasury subdomains via reassigned AWS IP addresses. No government data theft was reported.",
-    "category": "Cloud"
-  },
-  {
     "id": "aHR0cHM6Ly90aGVoYW",
-    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-    "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+    "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
     "source": "The Hacker News",
     "lang": "en",
-    "date": "2026-11-25T12:30:08.000Z",
-    "description": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
+    "date": "2026-11-26T15:13:41.000Z",
+    "description": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not throwaway accounts,\" Apiiro researcher Shmulik Cohen said. \"6,541 of the 7,609 repos (86%) belong",
+    "category": "Malware"
+  },
+  {
+    "id": "aHR0cHM6Ly9oYWNrcm",
+    "title": "AI Can Write Code. Engineers Still Have to Decide What Ships",
+    "link": "https://hackread.com/ai-writes-code-engineers-decide-what-ships/",
+    "source": "HackRead",
+    "lang": "en",
+    "date": "2026-11-25T18:35:56.000Z",
+    "description": "Senior roles drove most of the rebound in software job postings. See why employers value engineers who can review, test, and verify AI-generated code.",
     "category": "General"
   },
   {
